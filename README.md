@@ -1,8 +1,7 @@
-ЗАО "the бырдж wiki"
-====================
+# Roman Y. Bogdanov
 
-## what?
-Roman Y. Bogdanov public script svalka storage
+## ЗАО "the бырдж wiki"
+Roman Y. Bogdanov public script свалка халавалабилити стораге
 
 ## why?
 Becouse it’s always MTU, unless it’s DNS
