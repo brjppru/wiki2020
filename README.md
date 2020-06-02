@@ -4,7 +4,7 @@
 Roman Y. Bogdanov public script свалка во имя халавалабилити анд редуранси дата-стораге
 
 ## Куда ты дел свою wiki?
-[Теперь вика будет тут](https://github.com/brjppru/wiki2020.wiki.git)
+[Теперь вика будет тут](https://github.com/brjppru/wiki2020/wiki)
 
 ## why?
 Because it’s always MTU, unless it’s DNS
