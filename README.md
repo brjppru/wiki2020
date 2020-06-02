@@ -1,16 +1,16 @@
 # Roman Y. Bogdanov
 
 ## what?
-Roman Y. Bogdanov public script свалка халавалабилити анд редуранси дата-стораге
+Roman Y. Bogdanov public script свалка во имя халавалабилити анд редуранси дата-стораге
 
-## Куда ты дел wiki?
-[Верни вику! Нажми тута на сдеся](https://github.com/brjppru/wiki2020.wiki.git)
+## Куда ты дел свою wiki?
+[Теперь вика будет тут](https://github.com/brjppru/wiki2020.wiki.git)
 
 ## why?
 Because it’s always MTU, unless it’s DNS
 
 ## Download
-- [ ] ZIP.repo -> https://github.com/brjppru/wiki2020/archive/master.zip
+- [X] ZIP.repo -> https://github.com/brjppru/wiki2020/archive/master.zip
 
 ## Plan
 - [X]  do not try this at home
