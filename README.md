@@ -5,8 +5,8 @@
 Roman Y. Bogdanov public script svalka storage
 
 ## Plan
- [x] do not try this at home
- [ ] that's all
+- [X]  do not try this at home
+- [ ]  that's all
 
 ## contact
 
