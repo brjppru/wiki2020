@@ -1,11 +1,10 @@
 # Roman Y. Bogdanov
 
-## ЗАО the бырдж wiki
-Roman Y. Bogdanov public script свалка халавалабилити стораге
+## what?
+Roman Y. Bogdanov public script свалка халавалабилити анд редуранси дата-стораге
 
 ## wiki takeout
-
-[[https://github.com/brjppru/wiki2020.wiki.git|нажми тута на сдеся]]
+[https://github.com/brjppru/wiki2020.wiki.git|нажми тута на сдеся]
 
 ## why?
 Because it’s always MTU, unless it’s DNS
