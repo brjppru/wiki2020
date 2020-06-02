@@ -4,6 +4,9 @@
 ## what?
 Roman Y. Bogdanov public script svalka storage
 
+## why?
+Becouse it’s always MTU, unless it’s DNS
+
 ## Plan
 - [X]  do not try this at home
 - [ ]  that's all
