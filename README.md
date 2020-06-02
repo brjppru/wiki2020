@@ -8,6 +8,5 @@ Roman Y. Bogdanov public script svalka storage
 - [X]  do not try this at home
 - [ ]  that's all
 
-## contact
-
+## Contact
 Roman Y. Bogdanov, http://brj.pp.ru/
