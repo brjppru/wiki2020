@@ -1,7 +1,7 @@
 # Roman Y. Bogdanov
 
 ## what?
-Roman Y. Bogdanov public script свалка во имя халавалабилити анд редуранси дата-стораге
+Roman Y. Bogdanov public script свалка во славу халавалабилити, редунданси и капасити планнинга!
 
 ## Куда ты дел свою wiki?
 [Теперь вика будет тут](https://github.com/brjppru/wiki2020/wiki)
