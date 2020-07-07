@@ -49,6 +49,7 @@ do
 	TRS=${TRS//@/-};
 	TRS=${TRS//+/-};
 	TRS=${TRS//,/-};
+	TRS=${TRS//%/-};
 	TRS=${TRS//!/-};
 	TRS=${TRS//Ч/CH} TRS=${TRS//ш/sh};
 	TRS=${TRS//Ш/SH} TRS=${TRS//ё/yo};
